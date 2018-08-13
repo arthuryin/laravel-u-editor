@@ -29,7 +29,7 @@ dev-master 版    增加阿里OSS上传
 To get the latest version of Laravel Exceptions, simply add the following line to the require block of your `composer.json` file:
 
 ```
-"authuryinzhen/laravel-u-editor": "dev-master"
+"arthuryinzhen/laravel-u-editor": "dev-master"
 ```
 
 You'll then need to run `composer install` or `composer update` to download it and have the autoloader updated.
