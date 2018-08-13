@@ -1,6 +1,6 @@
 {
   "name": "arthuryinzhen/laravel-u-editor",
-  "description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu.",
+  "description": "UEditor for laravel5. 支持本地，七牛，阿里OSS",
   "keywords": [
     "laravel",
     "ueditor",
