@@ -8,15 +8,15 @@
     "laravel5 web text editor",
     "php"
   ],
-  "type": "library",
   "license": "MIT",
+  "type": "library",
   "authors": [
     {
-      "name": "Arthur YinZhen",
+      "name": "尹振",
       "email": "arthur.yinzhen@outlook.com"
     }
   ],
-  "minimum-stability": "dev",
+
   "require": {
     "php": ">=5.4.0",
     "ext-fileinfo": "*",
@@ -24,13 +24,10 @@
     "aliyuncs/oss-sdk-php": "^2.2",
     "qiniu/php-sdk": "7.*"
   },
-
-  "version": "1.0.0",
-
   "autoload": {
     "psr-4": {
       "Arthuryinzhen\\UEditor\\": "src/"
     }
   },
-  "prefer-stable": true
+  "minimum-stability": "dev"
 }
