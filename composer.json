@@ -5,7 +5,8 @@
     "laravel",
     "ueditor",
     "laravel-u-editor",
-    "laravel5 web text editor"
+    "laravel5 web text editor",
+    "php"
   ],
   "license": "MIT",
   "authors": [
