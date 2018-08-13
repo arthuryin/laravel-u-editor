@@ -8,6 +8,7 @@
     "laravel5 web text editor",
     "php"
   ],
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
@@ -15,7 +16,7 @@
       "email": "arthur.yinzhen@outlook.com"
     }
   ],
-
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.4.0",
     "ext-fileinfo": "*",
@@ -31,6 +32,5 @@
       "Arthuryinzhen\\UEditor\\": "src/"
     }
   },
-  "minimum-stability": "dev",
   "prefer-stable": true
 }
