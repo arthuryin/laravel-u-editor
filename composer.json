@@ -19,6 +19,7 @@
     "php": ">=5.4.0",
     "ext-fileinfo": "*",
     "illuminate/support": "5.*",
+    "aliyuncs/oss-sdk-php": "^2.2",
     "qiniu/php-sdk": "7.*"
   },
   "autoload": {
